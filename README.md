@@ -36,6 +36,10 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 10. **Market Potential Analysis**  
     Identify top 3 cities based on highest sales, and return city name, total sale, total rent, total customers, and estimated coffee consumers.
 
+## Technologies Used
+
+- PostgreSQL (SQL queries for data analysis)
+
 ## Recommendations
 
 ### City 1: Pune
