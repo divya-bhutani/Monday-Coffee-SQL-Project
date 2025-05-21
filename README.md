@@ -39,16 +39,16 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 ## Recommendations
 
 ### City 1: Pune
-- Highest total revenue (₹1.26M), indicating strong sales performance.
-- Average sales per customer is high at ₹24.2k.
-- Average rent per customer is also moderate at ₹294.
+- Highest total revenue (1.26M), indicating strong sales performance.
+- Average sales per customer is high at 24.2k.
+- Average rent per customer is also moderate at 294.
 
 ### City 2: Delhi
 - Largest estimated coffee-consuming population (7.75 million).
 - High total number of customers (68).
-- Average rent per customer is manageable at ₹330.
+- Average rent per customer is manageable at 330.
 
 ### City 3: Jaipur
 - Highest number of customers (69), showing strong reach.
-- Average rent per customer is very low at ₹156.
-- Average sales per customer is moderate at ₹11.6k.
+- Average rent per customer is very low at 156.
+- Average sales per customer is moderate at 11.6k.
